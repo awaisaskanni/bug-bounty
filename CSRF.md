@@ -1,0 +1,19 @@
+#CSRF
+## REFER HEADER BYPASS
+https://attacker.com?target.com
+https://attacker.com;target.com
+https://attacker.com/target.com/../targetPATH
+https://target.com.attacker.com
+https://attackertarget.com
+https://target.com@attacker.com
+https://attacker.com#target.com
+https://attacker.com\.target.com
+https://attacker.com/.target.com
+evilaccount.example.com 
+evil.com/account.example.com 
+account.exampleevil.com 
+account.exampleevil.com 
+account.example.com@evil.com
+evil.com#account.example.com 
+test@example.com
+example.com{.attacker.com
