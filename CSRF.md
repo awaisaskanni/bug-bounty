@@ -17,3 +17,11 @@
 - evil.com#account.example.com 
 - test@example.com
 - example.com{.attacker.com
+-> META TAG
+- <meta name="referrer" content="never">
+- <meta name="referrer" content="origin">
+- <meta name="referrer" content="origin-when-cross-origin">
+- <meta name="referrer" content="same-origin">
+- <meta name="referrer" content="strict-origin-when-cross-origin">
+- <meta http-equiv="Content-Security-Policy" content="referrer no-referrer">
+- <meta name="referrer" content="no-referrer">
